@@ -1,4 +1,8 @@
-﻿Public Class Form1
+﻿
+
+
+Public Class Form1
+    
     Dim total, tot1, tot2, tot3, tot4, tot5, tot6 As Double
     Dim tax As Double = 0.06
     Dim fittedsheets, pillows, pillowscases, flatsheets, comforter, sheets As Integer
@@ -6,7 +10,7 @@
     Dim cost1 As Double = 1.75
     Dim cost2 As Double = 2.5
     Dim cost3 As Double = 2.5
-    Dim cost4 As Double = 1.75    
+    Dim cost4 As Double = 1.75
     Dim cost5 As Double = 3.5
 
     Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
@@ -179,6 +183,6 @@
     End Sub
     Sub deleteitems(ByVal x As String)
         ListBox1.Items.Remove(x)
-        
+
     End Sub
 End Class
