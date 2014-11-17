@@ -13,25 +13,3 @@ C:\Users\Bashar\Desktop\Visual Studio 2013\Projects\Final Project\Final Project\
 C:\Users\Bashar\Desktop\Visual Studio 2013\Projects\Final Project\Final Project\obj\Debug\Final Project.exe
 C:\Users\Bashar\Desktop\Visual Studio 2013\Projects\Final Project\Final Project\obj\Debug\Final Project.xml
 C:\Users\Bashar\Desktop\Visual Studio 2013\Projects\Final Project\Final Project\obj\Debug\Final Project.pdb
-D:\prudential_linen\Final Project\Final Project\bin\Debug\Final Project.exe.config
-D:\prudential_linen\Final Project\Final Project\obj\Debug\Final Project.exe
-D:\prudential_linen\Final Project\Final Project\obj\Debug\Final Project.xml
-D:\prudential_linen\Final Project\Final Project\obj\Debug\Final Project.pdb
-D:\prudential_linen\Final Project\Final Project\bin\Debug\Final Project.exe
-D:\prudential_linen\Final Project\Final Project\bin\Debug\Final Project.pdb
-D:\prudential_linen\Final Project\Final Project\bin\Debug\Final Project.xml
-D:\prudential_linen\Final Project\Final Project\obj\Debug\Final Project.vbprojResolveAssemblyReference.cache
-D:\prudential_linen\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
-D:\prudential_linen\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
-D:\prudential_linen\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\bin\Debug\Final Project.exe.config
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\obj\Debug\Final Project.exe
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\obj\Debug\Final Project.xml
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\obj\Debug\Final Project.pdb
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\bin\Debug\Final Project.exe
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\bin\Debug\Final Project.pdb
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\bin\Debug\Final Project.xml
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\obj\Debug\Final Project.vbprojResolveAssemblyReference.cache
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
-C:\Users\Anthony\Documents\GitHub\crazy-linen\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
